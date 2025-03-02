@@ -3,7 +3,7 @@ Hello, I'm a Cyber Security engineer.
 - beratrg@hotmail.com
 
 
-<img src="https://github.com/JU3PER/deneme/blob/main/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg" width="600" height="350"/> 
+<img src="https://github.com/JU3PER/deneme/blob/main/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg" width="600" height="350" text-align="center" /> 
 
 
 
