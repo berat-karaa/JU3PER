@@ -2,7 +2,7 @@
 Hello, I'm a Cyber Security engineer.
 
 - beratrg@hotmail.com
-<img src="https://rare-gallery.com/thumbs/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg" width="40" height="40"/>
+https://rare-gallery.com/thumbs/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/beratkaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratkaraa" height="30" width="40" /></a>
