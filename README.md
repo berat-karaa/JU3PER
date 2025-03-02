@@ -11,11 +11,11 @@ Hello, I'm a Cyber Security engineer.
 # 📊 GitHub Stats:
 ![JU3PER's github stats](https://github-readme-stats.vercel.app/api?username=JU3PER&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JU3PER&hide_border=false&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JU3PER&langs_count=&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JU3PER&langs_count=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JU3PER&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=JU3PER&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JU3PER&icon=2&color=4)](https://visitcount.itsvg.in)
