@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello, I'm a Cyber Security engineer.
-
 - beratrg@hotmail.com
+
+</a>
 <img src="https://github.com/JU3PER/deneme/blob/main/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg" width="600" height="350"/> </a>
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/beratkaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratkaraa" height="30" width="40" /></a>
