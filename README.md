@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a Cyber Security engineer.
+Hello, I'm a Computer engineer.
 - beratrg@hotmail.com
 
 
