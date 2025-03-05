@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm a Computer engineer.
-- beratrg@hotmail.com
+- beratkaraa@engineer.com
 
 
 <img src="https://github.com/JU3PER/deneme/blob/main/915633-quote-Mr.-Robot-minimalism-TV-Series-simple-background.jpg" width="728" height="410" /> 
