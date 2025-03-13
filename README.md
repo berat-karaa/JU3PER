@@ -23,12 +23,12 @@ Hello, I'm a Computer engineer.
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
 
 # 📊 GitHub Stats:
-![JU3PER's github stats](https://github-readme-stats.vercel.app/api?username=JU3PER&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JU3PER&hide_border=false&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JU3PER&langs_count=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![JU3PER's github stats](https://github-readme-stats.vercel.app/api?username=berat-karaa&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=berat-karaa&hide_border=false&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berat-karaa&langs_count=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JU3PER&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=berat-karaa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
